@@ -32,7 +32,9 @@ body {
 
 }
 
-
+.hidden {
+    display: none;
+}
 
 a {
     
