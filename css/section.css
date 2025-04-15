@@ -1,0 +1,44 @@
+.items {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-top: 40px;
+    background-color: #fff;
+    padding: 12px 16px;
+    border-radius: 12px;
+}
+
+.check {
+    width: 16px;
+    height: 16px;
+    border-radius: 6px;
+    border: 1px solid var(--border-primary);
+    cursor: pointer;
+}
+
+.check:hover {
+    border: 1px solid var(--border-hover);
+}
+
+
+
+
+
+.items label {
+    font-family: "Inter", sans-serif;
+    color: var(--content-secondary);
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.items img {
+    margin-left: auto;
+}
+
+
+
+
+
+
+
