@@ -3,6 +3,8 @@
     
     flex-direction: column;
     margin-top: 62px;
+    
+    
 }
 
 .icons a {
@@ -35,6 +37,7 @@ h1 {
     border-radius: 10px;
     border: 3px solid transparent;
     border-color: var(--border-primary);
+    margin-bottom: 40px;
 }
 
 .input-form:hover {
