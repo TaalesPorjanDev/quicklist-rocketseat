@@ -20,6 +20,8 @@ Aplicação desenvolvida no estilo *To-Do List*, com foco em manipulação do DO
 <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/c2eaee09-0472-4df0-a180-b4d0ca0b3085" />
 
 
+🌐 Acesse o projeto
+🔗 [Clique aqui para visualizar](https://quicklist-rocketseat.vercel.app/) 
 
 ## 📦 Como rodar localmente
 
